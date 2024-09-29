@@ -11,6 +11,7 @@
 
 - [x] `.tmux/*`
 - [x] `.tmux.conf`
+- [x] `.config/nvim/*
 - [x] `.aws/config`
 - [x] `.gitconfig`
 - [x] `.zprofile`
