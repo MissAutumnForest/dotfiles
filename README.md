@@ -9,6 +9,8 @@
 
 ## Dotfiles Included
 
+- [x] `.tmux/*`
+- [x] `.tmux.conf`
 - [x] `.aws/config`
 - [x] `.gitconfig`
 - [x] `.zprofile`
