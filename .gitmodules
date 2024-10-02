@@ -7,3 +7,18 @@
 [submodule ".config/nvim/pack/github/start/copilot.vim"]
 	path = .config/nvim/pack/github/start/copilot.vim
 	url = https://github.com/github/copilot.vim.git
+[submodule ".config/nvim/pack/packer/start/packer.nvim"]
+	path = .config/nvim/pack/packer/start/packer.nvim
+	url = https://github.com/wbthomason/packer.nvim
+[submodule ".config/nvim/pack/nvim-tree/start/nvim-tree.nvim"]
+	path = .config/nvim/pack/nvim-tree/start/nvim-tree.nvim
+	url = https://github.com/nvim-tree/nvim-tree.lua
+[submodule ".config/nvim/pack/nvim-treesitter/start/nvim-tresitter.nvim"]
+	path = .config/nvim/pack/nvim-treesitter/start/nvim-tresitter.nvim
+	url = https://github.com/nvim-treesitter/nvim-treesitter
+[submodule ".config/nvim/pack/undotree/start/undotree.nvim"]
+	path = .config/nvim/pack/undotree/start/undotree.nvim
+	url = https://github.com/mbbill/undotree
+[submodule ".config/nvim/pack/telescope/start/telescope.vim"]
+	path = .config/nvim/pack/telescope/start/telescope.vim
+	url = https://github.com/nvim-telescope/telescope.nvim
