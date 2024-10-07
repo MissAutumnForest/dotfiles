@@ -1,12 +1,18 @@
 [submodule ".tmux/plugins/tpm"]
 	path = .tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
-[submodule ".vim/pack/github/start/copilot.vim"]
-	path = .vim/pack/github/start/copilot.vim
-	url = https://github.com/github/copilot.vim.git
-[submodule ".config/nvim/pack/github/start/copilot.vim"]
-	path = .config/nvim/pack/github/start/copilot.vim
-	url = https://github.com/github/copilot.vim.git
+[submodule ".tmux/plugins/tmux-sensible"]
+	path = .tmux/plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule ".tmux/plugins/vim-tmux-navigator"]
+	path = .tmux/plugins/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
+[submodule ".tmux/plugins/tmux-yank"]
+	path = .tmux/plugins/tmux-yank
+	url = https://github.com/tmux-plugins/tmux-yank
+[submodule ".tmux/plugins/tokyo-night-tmux"]
+	path = .tmux/plugins/tokyo-night-tmux
+	url = https://github.com/janoamaral/tokyo-night-tmux
 [submodule ".config/nvim/pack/packer/start/packer.nvim"]
 	path = .config/nvim/pack/packer/start/packer.nvim
 	url = https://github.com/wbthomason/packer.nvim
@@ -22,3 +28,12 @@
 [submodule ".config/nvim/pack/telescope/start/telescope.vim"]
 	path = .config/nvim/pack/telescope/start/telescope.vim
 	url = https://github.com/nvim-telescope/telescope.nvim
+[submodule ".config/nvim/pack/tokyonight/start/tokyonight.nvim"]
+	path = .config/nvim/pack/tokyonight/start/tokyonight.nvim
+	url = https://github.com/folke/tokyonight.nvim
+[submodule ".config/nvim/pack/github/start/copilot.vim"]
+	path = .config/nvim/pack/github/start/copilot.vim
+	url = https://github.com/github/copilot.vim
+[submodule ".config/nvim/pack/plenary/start/plenary.nvim"]
+	path = .config/nvim/pack/plenary/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
